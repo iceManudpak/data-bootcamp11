@@ -1,6 +1,8 @@
 # Data Science Bootcamp 11
 Data Science Bootcamp Projects
 
+This Class is awesome
+
 This bootcamp learn about 4 months, 10 sprint
 - Google Sheets
 - Database
@@ -9,7 +11,7 @@ This bootcamp learn about 4 months, 10 sprint
 - Statistics
 - Machine Learning
 - Web Scraping
-- Python
+- Python for Data Analyst
 - Dashboard
 
 I love `R programming` . (in line code)
